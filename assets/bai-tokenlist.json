@@ -1,0 +1,21 @@
+{
+  "name": "BAI Token List",
+  "logoURI": "https://raw.githubusercontent.com/ceobinvesta/Bai-token-assets/main/assets/BAI_logo.png",
+  "keywords": ["bai", "token", "investment"],
+  "timestamp": "2025-04-22T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 43114,
+      "address": "0x76161b1e2881095109681E0553eEfbfD4519eE80",
+      "name": "BAI",
+      "symbol": "BAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ceobinvesta/Bai-token-assets/main/assets/BAI_logo.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
